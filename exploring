@@ -1,1 +1,7 @@
+x="ibrahim"         
+print(x)
+y=20.1
+print(type(y))
 
+z=input("what value do you want to assign? ")
+print(type(z))
